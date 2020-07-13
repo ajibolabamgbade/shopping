@@ -1,0 +1,40 @@
+.me{
+	padding-top:50px;
+	padding-right: 50px;
+}
+div .form-inline{
+	right: 10px;
+	position: absolute;
+}
+
+.container-cart{
+    background: black;
+    color: white;
+    margin-left: 50px;
+    margin-right: 30px;
+}
+.top-right{
+	float: right;
+	background: grey;
+	color: white;
+	font-size: 10px;
+}
+
+.btn-circle.btn-sm{
+	border-radius: 15px;
+}
+.card-title{
+	font-size: bold;
+}
+hr{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 2px solid gold;
+	width: 20px;
+}
+.shirt{
+	padding-right:150px;
+}
+.love{
+	padding-left: 200px;
+}
